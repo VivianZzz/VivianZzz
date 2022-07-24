@@ -1,9 +1,7 @@
 ### Olá! Eu Sou a Vivian Silva there 👋
 
 - 🔭 Futura Desenvovedora Front End
-- 🌱 
-- 👯 
--
+
 
 <div align="center">
   <a href="https://github.com/VivianZzz">
