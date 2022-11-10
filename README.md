@@ -1,6 +1,6 @@
 ### Olá! Eu Sou a Vivian Silva  👋
 
-- 🔭 Futura Desenvovedora Software
+- 🔭 Futura Desenvovedora Web e Back End
 
 
 
