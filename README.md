@@ -1,4 +1,5 @@
 ### Olá! Eu Sou a Vivian Silva   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 
 
 - 🔭 Futura Programadora Full Stack
@@ -35,7 +36,7 @@ const Vivian Silva = {
   editor: "Visual Studio Code",
   estudante: true,
 ```
-<img src="https://media3.giphy.com/media/TEILCythSScYyaaEDK/200w.webp?cid=ecf05e47s8dp5yl8352svl4u8vq9693n8fux2tyi2y5gmqz0&rid=200w.webp&ct=s" width="60"> <em><b>Sejam Bem Vindo, Bora tomar um Café? :)</em>
+<img src="https://media3.giphy.com/media/TEILCythSScYyaaEDK/200w.webp?cid=ecf05e47s8dp5yl8352svl4u8vq9693n8fux2tyi2y5gmqz0&rid=200w.webp&ct=s" width="60"> <em><b>Seja Bem Vindo, Bora tomar um Café? :)</em>
 
 
 ##
