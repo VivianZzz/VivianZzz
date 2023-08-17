@@ -1,5 +1,5 @@
 ### Olá! Eu Sou a Vivian Silva   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ 
 
 
 - 🔭 Futura Programadora Full Stack
@@ -8,7 +8,7 @@
 
 - 📚 Cursando Pós Graduação em Inteligência Artificial e Aprendizado de Máquina
 - 📚 Estudando Programação Web no IOS (Instituto de Oportunidade Social)
-- 📚 Estudando Suporte de Ti (breve)
+
 
 
 <div style="display: inline_block"><br>
