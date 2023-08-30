@@ -33,7 +33,7 @@ const Vivian Silva = {
   pronomes: "Ela" | "Dela",
   idade: 23,
   animes: ["Shokugeki no souma", "One Piece", "Spy x Family", "..."],
-  linguagens: ["Javascript", "HTML", "CSS"],
+  linguagens: ["Javascript", "JAVA", "PYTHON"],
   editor: "Visual Studio Code",
   estudante: true,
 ```
