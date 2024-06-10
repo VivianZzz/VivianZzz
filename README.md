@@ -6,8 +6,8 @@
 - 💻 Estou procurando trabalho na área de tecnologia
 - 🎩 Formada em Gestão da Informação 
 
-- 📚 Cursando Pós Graduação em Inteligência Artificial e Aprendizado de Máquina
-- 📚 Estudando Programação Web no IOS (Instituto de Oportunidade Social)
+- 📚 Cursando Técnico em Desenvolvimento em Sistema
+  
 
 
 
